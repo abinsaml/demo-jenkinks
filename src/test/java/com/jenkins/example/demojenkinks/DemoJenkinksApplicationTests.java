@@ -13,6 +13,8 @@ class DemoJenkinksApplicationTests {
     @Test
     void contextLoads() {
         logger.info("Testcase executing..........++++++++++++");
+        logger.info("Testcase executing second time..........++++++++++++");
+
         assert true;
     }
 
